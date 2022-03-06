@@ -1,6 +1,6 @@
 import math
 
-def mediana(lista):
+def questao1(lista):
     lista.sort()
     return lista[len(lista) // 2]
 
